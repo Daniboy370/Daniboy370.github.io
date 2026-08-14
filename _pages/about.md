@@ -6,7 +6,7 @@ subtitle: Ph.D. Researcher in Guidance, Navigation, and Control
 
 profile:
   align: right
-  image: Profile-3.png
+  image: Profile-0.png
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>ANSFL Lab</p>
