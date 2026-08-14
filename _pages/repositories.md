@@ -7,28 +7,14 @@ nav: true
 nav_order: 4
 ---
 
-## Aerial Robotics & GNC
+{% if site.data.repositories.github_users %}
 
-<div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-between">
-  {% include repository/repo.html repository="ansfl/Estimation-Aware-Control" %}
-  {% include repository/repo.html repository="ansfl/AERO-LQG" %}
-  {% include repository/repo.html repository="ansfl/LQG-A-IPOC" %}
+## GitHub users
+
+<div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-center">
+  {% for user in site.data.repositories.github_users %}
+    {% include repository/repo_user.liquid username=user %}
+  {% endfor %}
 </div>
 
 ---
-
-## Navigation & Sensor Fusion
-
-<div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-between">
-  {% include repository/repo.html repository="ansfl/C-ZUPT" %}
-  {% include repository/repo.html repository="ansfl/Multiple-MEMS-IMUs-Estimation" %}
-</div>
-
----
-
-## Learning-Based Inertial Sensing
-
-<div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-between">
-  {% include repository/repo.html repository="ansfl/Learning-Based-MEMS-Gyrocompassing" %}
-  {% include repository/repo.html repository="ansfl/MEMS-IMU-Denoising" %}
-</div>
