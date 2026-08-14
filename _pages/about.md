@@ -28,6 +28,7 @@ My name is Daniel, and I am a researcher at the [Autonomous Navigation and Senso
 
 My research bridges robust control theory, state estimation, and learning-based flight control to enable UAVs to operate completely **autonomously** in complex, GPS-denied environments—both indoors and outdoors.
 
+---
 ### Research Interests
 * **Agile and Robust GNC:** Trajectory optimization, robust and adaptive control, end-to-end autonomous navigation pipelines for aerial platforms.
 * **Perception & State Estimation:** Vision-aided inertial navigation (VINS), multi-sensor fusion (IMU/Vision/LiDAR), and state estimation in GPS-denied environments.
