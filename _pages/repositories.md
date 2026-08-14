@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: repositories
 title: repositories
 permalink: /repositories/
 nav: true
