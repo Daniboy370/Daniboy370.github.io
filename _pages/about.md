@@ -2,14 +2,16 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Ph.D. Researcher in Guidance, Navigation, and Control
 
 profile:
   align: right
   image: Profile-3.png
   image_circular: false # crops the image to make it circular
   more_info: >
-
+    <p>ANSFL Lab</p>
+    <p>University of Haifa</p>
+    
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
@@ -19,12 +21,14 @@ announcements:
   limit: 5 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+  enabled: flase
 ---
 
-I am a PhD Candidate specializing in **Guidance, Navigation, and Control (GNC)** for **aerial platforms**. My research bridges robust control theory, state estimation, and learning-based flight control to enable autonomous UAVs to operate reliably in dynamic, GPS-denied environments, indoors and outdoors.
+Hi there! 
+
+My name is Daniel, and I am a researcher at the [Autonomous Navigation and Sensor Fusion Lab (ANSFL)](https://ansfl.marsci.haifa.ac.il/), led by Prof. Itzik Klein at the University of Haifa. 
+
+I specialize in **Guidance, Navigation, and Control (GNC)** for **aerial platforms**. My research bridges robust control theory, state estimation, and learning-based flight control to enable autonomous UAVs to operate reliably in complex, GPS-denied environments—both indoors and outdoors.
 
 ### Research Interests
 * **Agile and Robust GNC:** Trajectory optimization, robust and adaptive control, end-to-end autonomous navigation pipelines for aerial platforms.
