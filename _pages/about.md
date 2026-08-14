@@ -32,14 +32,12 @@ I am a PhD Candidate specializing in **Guidance, Navigation, and Control (GNC)**
 * **Sim-to-Real & Robot Learning:** Narrowing simulation-based learning policies upon real-world deployment.
 
 ---
-
-<!-- Teaser GIF Section -->
 <div style="text-align: center; margin: 20px 0;">
-  <img src="/assets/img/Quad_Chase_2.gif" 
+  <img src="{{ '/assets/img/Quad_Chase_2.gif' | relative_url }}" 
        alt="Autonomous Drone Flight Demo" 
-       style="width: 85%; height: auto; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+       style="width: 85%; max-width: 480px; height: auto; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
   <p style="font-size: 0.85em; color: #666; margin-top: 6px;">
-    <em>Two INDI-controlled quads competing on a tilted lemniscate trajectory following.</em>
+    <em>Autonomous agile navigation in a GPS-denied environment using onboard vision and adaptive GNC.</em>
   </p>
 </div>
 
