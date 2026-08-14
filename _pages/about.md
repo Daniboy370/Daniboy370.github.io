@@ -35,8 +35,12 @@ I am a PhD Candidate specializing in **Guidance, Navigation, and Control (GNC)**
 
 <!-- Teaser GIF Section -->
 <div style="text-align: center; margin: 20px 0;">
-  <img src="/assets/img/Quad_Chase_2.gif" alt="Autonomous Drone Flight Demo" style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
-  <p style="font-size: 0.85em; color: #666; margin-top: 6px;"><em>Autonomous agile navigation in a GPS-denied environment using onboard vision and adaptive GNC.</em></p>
+  <img src="/assets/img/Quad_Chase_2.gif" 
+       alt="Autonomous Drone Flight Demo" 
+       style="width: 70%; height: auto; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+  <p style="font-size: 0.85em; color: #666; margin-top: 6px;">
+    <em>Autonomous agile navigation in a GPS-denied environment using onboard vision and adaptive GNC.</em>
+  </p>
 </div>
 
 ---
