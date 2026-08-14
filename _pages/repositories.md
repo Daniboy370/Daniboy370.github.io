@@ -1,20 +1,33 @@
 ---
 layout: page
-permalink: /repositories/
 title: repositories
-description: Edit the `_data/repositories.yml` and change the `github_users` and `github_repos` lists to include your own GitHub profile and repositories.
+permalink: /repositories/
 nav: true
-nav_order: 4
+nav_order: 3
 ---
 
-{% if site.data.repositories.github_users %}
+## Aerial Robotics & GNC
 
-## GitHub users
-
-<div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-center">
-  {% for user in site.data.repositories.github_users %}
-    {% include repository/repo_user.liquid username=user %}
-  {% endfor %}
+<div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-between">
+  {% include repository/repo.html repository="ansfl/Estimation-Aware-Control" %}
+  {% include repository/repo.html repository="ansfl/AERO-LQG" %}
+  {% include repository/repo.html repository="ansfl/LQG-A-IPOC" %}
 </div>
 
 ---
+
+## Navigation & Sensor Fusion
+
+<div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-between">
+  {% include repository/repo.html repository="ansfl/C-ZUPT" %}
+  {% include repository/repo.html repository="ansfl/Multiple-MEMS-IMUs-Estimation" %}
+</div>
+
+---
+
+## Learning-Based Inertial Sensing
+
+<div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-between">
+  {% include repository/repo.html repository="ansfl/Learning-Based-MEMS-Gyrocompassing" %}
+  {% include repository/repo.html repository="ansfl/MEMS-IMU-Denoising" %}
+</div>
