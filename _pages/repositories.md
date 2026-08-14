@@ -7,17 +7,28 @@ nav: true
 nav_order: 4
 ---
 
-### Core Research & Algorithms
+## Aerial Robotics & GNC
 
 <div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-between">
-  {% include repository/repo.html repository="Daniboy370/AERO-LQG" %}
-  {% include repository/repo.html repository="Daniboy370/uav-trajectory-control" %}
+  {% include repository/repo.html repository="ansfl/Estimation-Aware-Control" %}
+  {% include repository/repo.html repository="ansfl/AERO-LQG" %}
+  {% include repository/repo.html repository="ansfl/LQG-A-IPOC" %}
 </div>
 
 ---
 
-### Tools, Packages & Simulation
+## Navigation & Sensor Fusion
 
 <div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-between">
-  {% include repository/repo.html repository="Daniboy370/ros2-mav-controller" %}
+  {% include repository/repo.html repository="ansfl/C-ZUPT" %}
+  {% include repository/repo.html repository="ansfl/Multiple-MEMS-IMUs-Estimation" %}
+</div>
+
+---
+
+## Learning-Based Inertial Sensing
+
+<div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-between">
+  {% include repository/repo.html repository="ansfl/Learning-Based-MEMS-Gyrocompassing" %}
+  {% include repository/repo.html repository="ansfl/MEMS-IMU-Denoising" %}
 </div>
