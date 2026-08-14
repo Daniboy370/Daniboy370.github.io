@@ -27,10 +27,11 @@ latest_posts:
 I am a PhD Candidate specializing in **Guidance, Navigation, and Control (GNC)** for **aerial platforms**. My research bridges robust control theory, state estimation, and learning-based flight control to enable autonomous UAVs to operate reliably in dynamic, GPS-denied environments, indoors and outdoors.
 
 ### Research Interests
-* **Guidance, Navigation, and Control (GNC):** Trajectory optimization, robust and adaptive control, end-to-end autonomous navigation pipelines for aerial platforms.
+* **Agile and Robust GNC:** Trajectory optimization, robust and adaptive control, end-to-end autonomous navigation pipelines for aerial platforms.
 * **Perception & State Estimation:** Vision-aided inertial navigation (VINS), multi-sensor fusion (IMU/Vision/LiDAR), and state estimation in GPS-denied environments.
 * **Sim-to-Real & Robot Learning:** Photorealistic synthesis, physics-grounded simulation, and transfer learning for agile autonomous flight.
-* 
+
+
 ---
 <div style="text-align: center; margin: 20px 0;">
   <img src="{{ '/assets/img/Quad_Chase_2.gif' | relative_url }}" 
