@@ -1,14 +1,11 @@
 github_users:
-  - torvalds
-  - alshedivat
-
-repo_description_lines_max: 2
+  - ansfl
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - ansfl/Estimation-Aware-Control
+  - ansfl/AERO-LQG
+  - ansfl/LQG-A-IPOC
+  - ansfl/C-ZUPT
+  - ansfl/Multiple-MEMS-IMUs-Estimation
+  - ansfl/Learning-Based-MEMS-Gyrocompassing
+  - ansfl/MEMS-IMU-Denoising
