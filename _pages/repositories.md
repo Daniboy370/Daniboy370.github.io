@@ -7,41 +7,17 @@ nav: true
 nav_order: 4
 ---
 
-{% if site.data.repositories.github_users %}
+### Core Research & Algorithms
 
-## GitHub users
-
-<div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-center">
-  {% for user in site.data.repositories.github_users %}
-    {% include repository/repo_user.liquid username=user %}
-  {% endfor %}
+<div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-between">
+  {% include repository/repo.html repository="Daniboy370/AERO-LQG" %}
+  {% include repository/repo.html repository="Daniboy370/uav-trajectory-control" %}
 </div>
 
 ---
 
-{% if site.repo_trophies.enabled %}
-{% for user in site.data.repositories.github_users %}
-{% if site.data.repositories.github_users.size > 1 %}
+### Tools, Packages & Simulation
 
-  <h4>{{ user }}</h4>
-  {% endif %}
-  <div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-center">
-  {% include repository/repo_trophies.liquid username=user %}
-  </div>
-
----
-
-{% endfor %}
-{% endif %}
-{% endif %}
-
-{% if site.data.repositories.github_repos %}
-
-## GitHub Repositories
-
-<div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-center">
-  {% for repo in site.data.repositories.github_repos %}
-    {% include repository/repo.liquid repository=repo %}
-  {% endfor %}
+<div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-between">
+  {% include repository/repo.html repository="Daniboy370/ros2-mav-controller" %}
 </div>
-{% endif %}
