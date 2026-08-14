@@ -35,7 +35,7 @@ I am a PhD Candidate specializing in **Guidance, Navigation, and Control (GNC)**
 <div style="text-align: center; margin: 20px 0;">
   <img src="{{ '/assets/img/Quad_Chase_2.gif' | relative_url }}" 
        alt="Autonomous Drone Flight Demo" 
-       style="width: 100%; max-width: 480px; height: auto; border: none; outline: none;">
+       style="width: 100%; max-width: 640px; height: auto; border: none; outline: none;">
   <p style="font-size: 0.85em; color: #666; margin-top: 6px;">
     <em>Two INDI-based, Estimation-Aware (ours) vs. nominal baseline, competing on tilted lemniscate path following.</em>
   </p>
