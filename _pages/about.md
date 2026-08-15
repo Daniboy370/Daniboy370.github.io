@@ -34,7 +34,6 @@ My research bridges robust control theory, state estimation, and learning-based 
 
 
 ---
-
 <div style="text-align: center; margin: 20px 0;">
   <video autoplay loop muted playsinline style="width: 100%; max-width: 800px; height: auto;">
     <source src="{{ '/assets/video/Quad_Chase_2.mp4' | relative_url }}" type="video/mp4">
@@ -44,14 +43,4 @@ My research bridges robust control theory, state estimation, and learning-based 
     <em>Two INDI-based, Estimation-Aware (ours) vs. nominal baseline, competing on tilted lemniscate path following.</em>
   </p>
 </div>
-
-<!-- <div style="text-align: center; margin: 20px 0;">
-  <img src="{{ '/assets/img/Quad_Chase_2.gif' | relative_url }}" 
-       alt="Autonomous Drone Flight Demo" 
-       style="width: 100%; max-width: 640px; height: auto; border: none; outline: none;">
-  <p style="font-size: 0.85em; color: #666; margin-top: 6px;">
-    <em>Two INDI-based, Estimation-Aware (ours) vs. nominal baseline, competing on tilted lemniscate path following.</em>
-  </p>
-</div> -->
-
 ---
