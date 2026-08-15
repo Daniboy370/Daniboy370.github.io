@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://Daniboy370.github.io/sitemap.xml
+Sitemap: https://daniboy370.github.io/sitemap.xml
