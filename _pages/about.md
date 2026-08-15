@@ -15,7 +15,7 @@ social: false
 
 <style>
   .profile img {
-    max-width: 140px !important; /* Adjust this number to whatever size you prefer */
+    max-width: 180px !important; /* Adjust this number to whatever size you prefer */
     height: auto;
   }
 </style>
