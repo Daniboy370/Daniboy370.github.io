@@ -6,7 +6,7 @@ inline: true
 related_posts: false
 ---
 
-Heading to the [IEEE RAS Summer School on Multi-Robot Systems 2026](https://mrs.fel.cvut.cz/summer-school-2026/)! Excited to connect with fellow aerial robotics and GNC researchers, discuss state-of-the-art autonomous flight, and grab a Czech pilsner in Prague. Feel free to reach out if you'd like to connect! 🇨🇿
+Attended the [IEEE RAS Summer School on Multi-Robot Systems 2026](https://mrs.fel.cvut.cz/summer-school-2026/)! It was an incredible experience connecting in person with leading GNC researchers and getting to know the exceptional team led by Prof. Martin Saska at CTU in Prague. 🇨🇿
  
 <div style="display: flex; justify-content: center; margin-top: 12px;">
   <img src="{{ '/assets/img/Prague.jpg' | relative_url }}" 
