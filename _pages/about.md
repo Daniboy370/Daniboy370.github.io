@@ -35,12 +35,12 @@ My research bridges robust control theory, state estimation, and learning-based 
 
 ---
 <div style="text-align: center; margin: 20px 0;">
-  <video autoplay loop muted playsinline style="width: 100%; max-width: 800px; height: auto;">
+  <video autoplay loop muted playsinline style="width: 100%; max-width: 900px; height: auto;">
     <source src="{{ '/assets/video/Quad_Chase_2.mp4' | relative_url }}" type="video/mp4">
     Your browser does not support the video tag.
   </video>
   <p style="font-size: 0.85em; color: #666; margin-top: 6px;">
-    <em>Two INDI-based, Estimation-Aware (ours) vs. nominal baseline, competing on tilted lemniscate path following.</em>
+    <em>Two INDI-based controllers; nominal (brown, baseline) vs. Estimation-Aware (green, ours), competing on a tilted lemniscate trajectory.</em>
   </p>
 </div>
 ---
