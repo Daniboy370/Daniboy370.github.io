@@ -22,11 +22,9 @@ latest_posts:
   enabled: false
 ---
 
-Hi there! 
+I am a Ph.D. researcher at the [Autonomous Navigation and Sensor Fusion Lab (ANSFL)](https://ansfl.marsci.haifa.ac.il/), led by Prof. [Itzik Klein](https://scholar.google.com/citations?user=uwjVBkIAAAAJ&hl=en) at the University of Haifa. I focus on **Guidance, Navigation, and Control (GNC)** for **aerial platforms**. 
 
-My name is Daniel, and I am a researcher at the [Autonomous Navigation and Sensor Fusion Lab (ANSFL)](https://ansfl.marsci.haifa.ac.il/), led by Prof. [Itzik Klein](https://scholar.google.com/citations?user=uwjVBkIAAAAJ&hl=en) at the University of Haifa. I specialize in **Guidance, Navigation, and Control (GNC)** for **aerial platforms**. 
-
-My research bridges robust control theory, state estimation, and learning-based flight control to enable UAVs to operate completely **autonomously** in complex, GPS-denied environments—both indoors and outdoors.
+My research bridges robust control theory, state estimation, and learning-based flight control to enable unmanned aerial platforms to operate with full autonomy in complex, GPS-denied environments—both indoors and outdoors.
 
 ---
 ### Research Interests
