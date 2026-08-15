@@ -26,6 +26,36 @@ I am a Ph.D. researcher at the [Autonomous Navigation and Sensor Fusion Lab (ANS
 
 My research bridges robust control theory, state estimation, and learning-based flight control to enable unmanned aerial platforms to operate with full autonomy in complex, GPS-denied environments—both indoors and outdoors.
 
+<!-- Custom Social Links Row -->
+<div style="margin: 15px 0 25px 0; display: flex; gap: 15px; flex-wrap: wrap; align-items: center;">
+  
+  <!-- Email -->
+  <a href="mailto:dengelsm@campus.haifa.ac.il" target="_blank" style="text-decoration: none; font-size: 1.35em;" title="Email">
+    <i class="fas fa-envelope"></i>
+  </a>
+
+  <!-- GitHub -->
+  <a href="https://github.com/Daniboy370" target="_blank" style="text-decoration: none; font-size: 1.35em;" title="GitHub">
+    <i class="fab fa-github"></i>
+  </a>
+
+  <!-- Google Scholar -->
+  <a href="https://scholar.google.com/citations?user=IX7q2uAAAAAJ" target="_blank" style="text-decoration: none; font-size: 1.35em;" title="Google Scholar">
+    <i class="ai ai-google-scholar"></i>
+  </a>
+
+  <!-- ORCID -->
+  <a href="https://orcid.org/0000-0003-0689-1097" target="_blank" style="text-decoration: none; font-size: 1.35em;" title="ORCID">
+    <i class="ai ai-orcid"></i>
+  </a>
+
+  <!-- ResearchGate -->
+  <a href="https://www.researchgate.net/profile/Daniel-Engelsman-3" target="_blank" style="text-decoration: none; font-size: 1.35em;" title="ResearchGate">
+    <i class="ai ai-researchgate"></i>
+  </a>
+
+</div>
+
 ---
 ### Research Interests
 * **Agile and Robust GNC:** Trajectory optimization, robust and adaptive control, end-to-end autonomous navigation pipelines for aerial platforms.
