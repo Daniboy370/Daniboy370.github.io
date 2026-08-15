@@ -2,7 +2,8 @@
 layout: about
 title: about
 permalink: /
-subtitle: Ph.D. Researcher in Guidance, Navigation, and Control
+subtitle: # 
+---
 
 profile:
   align: right
