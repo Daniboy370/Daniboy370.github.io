@@ -2,11 +2,10 @@ github_users:
   - ansfl
 
 github_repos:
-  - ansfl/Estimation-Aware-Control
-  - ansfl/AERO-LQG
-  - ansfl/LQG-A-IPOC
-  - ansfl/C-ZUPT
-  - ansfl/Multiple-MEMS-IMUs-Estimation
-  - ansfl/Learning-Based-MEMS-Gyrocompassing
   - ansfl/MEMS-IMU-Denoising
- 
+  - ansfl/Learning-Based-MEMS-Gyrocompassing
+  - ansfl/Estimation-Aware-Control
+  - ansfl/C-ZUPT
+  - ansfl/LQG-A-IPOC
+  - ansfl/Multiple-MEMS-IMUs-Estimation
+  - ansfl/AERO-LQG 
