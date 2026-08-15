@@ -28,20 +28,20 @@ My research bridges robust control theory, state estimation, and learning-based 
 
 <!-- Custom Social Links Row -->
 <div style="margin: 20px 0 30px 0; display: flex; justify-content: center; gap: 25px; flex-wrap: wrap; align-items: center;">
-  
-  <!-- Email -->
-  <a href="mailto:dengelsm@campus.haifa.ac.il" target="_blank" style="text-decoration: none; font-size: 1.6em;" title="Email">
-    <i class="fas fa-envelope"></i>
-  </a>
-
-  <!-- GitHub -->
-  <a href="https://github.com/Daniboy370" target="_blank" style="text-decoration: none; font-size: 1.6em;" title="GitHub">
-    <i class="fab fa-github"></i>
-  </a>
 
   <!-- Google Scholar -->
   <a href="https://scholar.google.com/citations?user=IX7q2uAAAAAJ" target="_blank" style="text-decoration: none; font-size: 1.6em;" title="Google Scholar">
     <i class="ai ai-google-scholar"></i>
+  </a>
+
+  <!-- ResearchGate -->
+  <a href="https://www.researchgate.net/profile/Daniel-Engelsman-3" target="_blank" style="text-decoration: none; font-size: 1.6em;" title="ResearchGate">
+    <i class="ai ai-researchgate"></i>
+  </a>
+  
+  <!-- GitHub -->
+  <a href="https://github.com/Daniboy370" target="_blank" style="text-decoration: none; font-size: 1.6em;" title="GitHub">
+    <i class="fab fa-github"></i>
   </a>
 
   <!-- ORCID -->
@@ -49,9 +49,9 @@ My research bridges robust control theory, state estimation, and learning-based 
     <i class="ai ai-orcid"></i>
   </a>
 
-  <!-- ResearchGate -->
-  <a href="https://www.researchgate.net/profile/Daniel-Engelsman-3" target="_blank" style="text-decoration: none; font-size: 1.6em;" title="ResearchGate">
-    <i class="ai ai-researchgate"></i>
+  <!-- Email -->
+  <a href="mailto:dengelsm@campus.haifa.ac.il" target="_blank" style="text-decoration: none; font-size: 1.6em;" title="Email">
+    <i class="fas fa-envelope"></i>
   </a>
 
 </div>
