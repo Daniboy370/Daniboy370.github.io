@@ -8,17 +8,18 @@ profile:
   align: right
   image: Profile-0.png
   image_circular: false
+  style: "max-width: 120px;"  # Visual size on screen
 
 selected_papers: true
 social: false
 ---
 
-<style>
+<!-- <style>
   .profile img {
     max-width: 180px !important; /* Adjust this number to whatever size you prefer */
     height: auto;
   }
-</style>
+</style> -->
 
 <!-- Custom Social Links Row -->
 <div style="margin: 20px 0 30px 0; display: flex; justify-content: center; gap: 25px; flex-wrap: wrap; align-items: center;">
