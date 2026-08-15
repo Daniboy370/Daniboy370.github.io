@@ -14,18 +14,3 @@ nav_order: 3
     {% endfor %}
   </div>
 {% endif %}
-
-<style>
-  /* Force light theme cards by default */
-  .repositories .repo-img-dark {
-    display: none !important;
-  }
-  
-  /* Switch to dark theme cards when dark mode is toggled */
-  [data-theme="dark"] .repositories .repo-img-dark {
-    display: block !important;
-  }
-  [data-theme="dark"] .repositories .repo-img-light {
-    display: none !important;
-  }
-</style>
