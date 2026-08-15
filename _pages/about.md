@@ -9,17 +9,16 @@ profile:
   image: Profile-0.png
   image_circular: false
 
-<style>
-  .profile img {
-    max-width: 110px !important; /* Adjust this number to whatever size you prefer */
-    height: auto;
-  }
-</style>
-
 selected_papers: true
 social: false
 ---
 
+<style>
+  .profile img {
+    max-width: 140px !important; /* Adjust this number to whatever size you prefer */
+    height: auto;
+  }
+</style>
 
 <!-- Custom Social Links Row -->
 <div style="margin: 20px 0 30px 0; display: flex; justify-content: center; gap: 25px; flex-wrap: wrap; align-items: center;">
