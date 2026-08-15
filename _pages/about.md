@@ -56,13 +56,11 @@ My research bridges robust control theory, state estimation, and learning-based 
   </a>
 
 </div>
-
 ---
 ### Research Interests
 * **Agile and Robust GNC:** Trajectory optimization, robust and adaptive control, end-to-end autonomous navigation pipelines for aerial platforms.
 * **Perception & State Estimation:** Vision-aided inertial navigation (VINS), multi-sensor fusion (IMU/Vision/LiDAR), and state estimation in GPS-denied environments.
 * **Sim-to-Real & Robot Learning:** Photorealistic synthesis, physics-grounded simulation, and transfer learning for agile autonomous flight.
-
 
 ---
 <div style="text-align: center; margin: 20px 0;">
