@@ -6,7 +6,7 @@ inline: true
 related_posts: false
 ---
 
-Presented our latest findings on estimation-aware control and autonomous navigation at **The Israel Navigation Workshop and Exhibition (INWE24)**! It was a fantastic opportunity to engage with leading experts across industry and academia, exchange ideas on next-generation state estimation, and showcase our lab's ongoing research in GPS-denied aerial flight.
+Presented our latest learning-based in autonomous navigation at **The Israel Navigation Workshop and Exhibition (INWE24)**! It was a fantastic opportunity to engage with leading experts across industry and academia.
 
 <div style="display: flex; justify-content: center; margin-top: 12px;">
   <img src="{{ '/assets/img/Israel_Navigation.jpg' | relative_url }}" 
