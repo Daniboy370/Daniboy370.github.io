@@ -7,20 +7,18 @@ subtitle: ""
 profile:
   align: right
   image: Profile-0.png
-  image_circular: false # crops the image to make it circular
-  style: "max-width: 50px;"  # <-- Add this line! Adjust pixels to your liking (e.g., 150px, 180px, 200px)
-    
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: false # includes social icons at the bottom of the page
+  image_circular: false
 
-announcements:
-  enabled: true # includes a list of news items
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
-
-latest_posts:
-  enabled: false
+selected_papers: true
+social: false
 ---
+
+<style>
+  .profile img {
+    max-width: 110px !important; /* Adjust this number to whatever size you prefer */
+    height: auto;
+  }
+</style>
 
 <!-- Custom Social Links Row -->
 <div style="margin: 20px 0 30px 0; display: flex; justify-content: center; gap: 25px; flex-wrap: wrap; align-items: center;">
