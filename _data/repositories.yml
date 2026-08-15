@@ -4,12 +4,12 @@ github_users:
 
 github_repos:
   # Arranged by Star Count (High to Low)
-  - Daniboy370/Autonomous-Systems
   - ansfl/MEMS-IMU-Denoising
+  - Daniboy370/Missile-Guidance
   - ansfl/Learning-Based-MEMS-Gyrocompassing
+  - Daniboy370/Autonomous-Systems
   - ansfl/Estimation-Aware-Control
   - ansfl/C-ZUPT
-  - Daniboy370/Missile-Guidance
-  - ansfl/LQG-A-IPOC
   - ansfl/Multiple-MEMS-IMUs-Estimation
+  - ansfl/LQG-A-IPOC
   - ansfl/AERO-LQG
