@@ -12,6 +12,15 @@ profile:
 
 selected_papers: true
 social: false
+
+news: true # <--- THIS ENABLES THE TICKER ON ABOUT.MD
+announcements:
+  enabled: true
+  scrollable: true
+  limit: 5
+
+latest_posts:
+  enabled: false
 ---
 
 <!-- <style>
