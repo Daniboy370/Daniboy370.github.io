@@ -1,12 +1,12 @@
 ---
 layout: post
 title: Attending EuroGNC 2026 in Madrid!
-date: 2026-02-05 09:00:00-0400
+date: 2026-05-02 09:00:00-0400
 inline: true
 related_posts: false
 ---
 
-Heading to [EuroGNC 2026](https://eurognc.ceas.org/)! Excited to connect with fellow GNC researchers, discuss state-of-the-art flight control and navigation, and catch up over local tapas. Reach out if you'd like to meet up! 🇪🇸
+Attended [EuroGNC 2026](https://eurognc.ceas.org/) in Madrid! It was a fantastic experience connecting with fellow GNC researchers, discuss state-of-the-art flight control and navigation, and catch up over local tapas. Reach out if you'd like to meet up! 🇪🇸
  
 <div style="display: flex; justify-content: center; margin-top: 12px;">
   <img src="{{ '/assets/img/Madrid.jpg' | relative_url }}" 
