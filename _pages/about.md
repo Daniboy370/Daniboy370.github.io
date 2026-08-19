@@ -64,9 +64,9 @@ My research focuses on end-to-end **Guidance, Navigation, and Control (GNC)** fo
 
 _"How uncertainty in the estimated state propagates through the control hierarchy and ultimately affects closed-loop stability and tracking precision?"_.
 
-By pioneering **estimation-aware** control frameworks, I build **unified GNC pipelines** that explicitly account for sensor noise and state uncertainties across every level of the GNC stack—from high-bandwidth attitude stabilization to trajectory tracking and higher-level decision making.
+By pioneering **Estimation-Aware (EA)** control frameworks, I build **unified GNC pipelines** that explicitly account for sensor noise and state uncertainties across every level of the GNC stack—from high-bandwidth attitude stabilization to trajectory tracking and higher-level decision making.
 
-Rather than treating sensing, estimation, and control as isolated components, my research integrates them into a cohesive framework. This establishes **principled operating bounds** under sensing, actuation, and environmental constraints—unlocking precise and resilient autonomy in complex, GNSS-denied environments.
+Rather than treating sensing, estimation, and control as **decoupled subsystems**, my research integrates them into a **cohesive framework**. This establishes principled **operating bounds** under internal (system) and external (environment) constraints—unlocking precise and resilient autonomy in complex, GNSS-denied environments.
 
 ---
 <div style="text-align: center; margin: 20px 0;">
