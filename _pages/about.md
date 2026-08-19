@@ -91,15 +91,18 @@ Rather than treating sensing, estimation, and control as **decoupled subsystems*
 * **Resource-Efficient Vision-Aided Navigation:** How can state-of-the-art VINS and SLAM algorithms be restructured—both computationally and algorithmically—to preserve state-space consistency and guarantee bounded uncertainty in real-time embedded flight systems?
 
 ---
-
+https://www.youtube.com/@tinexdFPV
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; border-radius: 8px;">
   <iframe 
-    src="
-https://www.youtube.com/watch?v=T0iA-GSP4h4" 
-    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" 
+    src="https://www.youtube.com/embed/T0iA-GSP4h4" 
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" 
     allowfullscreen 
-    title="Estimation-Aware Control Flight Demo">
-  </iframe></div>
+    title="Agile flight control by top-drone pilot tinexdFPV">
+  </iframe>
+</div>
+<p style="font-size: 0.85em; color: #666; margin-top: 8px; text-align: center;">
+  <em>Video courtesy of top-drone pilot <a href="https://www.youtube.com/@tinexdFPV" target="_blank" rel="noopener">tinexdFPV</a>.</em>
+</p>
 
   ---
