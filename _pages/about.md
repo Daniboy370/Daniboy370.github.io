@@ -60,11 +60,11 @@ latest_posts:
 
 </div>
 
-My research focuses on end-to-end **Guidance, Navigation, and Control (GNC)** for autonomous aerial systems, with particular emphasis on the interface between **state estimation** and **feedback control**. A central question underlying my work is 
+My research focuses on end-to-end **Guidance, Navigation, and Control (GNC)** for autonomous aerial systems, with particular emphasis on the interface between **state estimation** and **feedback control**. A central question underlying my work is:
 
-_"How uncertainty in the estimated state propagates through the control hierarchy and ultimately affects closed-loop stability and tracking precision?"_.
+_"How does estimation quality—specifically in terms of bias (accuracy) and noise (precision)—propagate through the GNC layers to affect closed-loop stability and tracking performance?"_.
 
-By pioneering **Estimation-Aware (EA)** control frameworks, I build **unified GNC pipelines** that explicitly account for sensor noise and state uncertainties across every level of the GNC stack—from high-bandwidth attitude stabilization to trajectory tracking and higher-level decision making.
+By pioneering **Estimation-Aware (EA)** control frameworks, I build **unified GNC pipelines** that explicitly account for sensor noise and state uncertainties—from high-bandwidth inner-loop stabilization to outer-loop trajectory tracking.
 
 Rather than treating sensing, estimation, and control as **decoupled subsystems**, my research integrates them into a **cohesive framework**. This establishes principled **operating bounds** under internal (system) and external (environment) constraints—unlocking precise and resilient autonomy in complex, GNSS-denied environments.
 
@@ -79,3 +79,10 @@ Rather than treating sensing, estimation, and control as **decoupled subsystems*
   </p>
 </div>
 ---
+
+**Open Questions I'm Exploring**
+
+* **Uncertainty Propagation Across Time Scales:** How does estimation covariance map efficiently to low-frequency trajectory planners without creating computational bottlenecks?
+* **Guaranteed Safety Under Active Degradation:** How do we construct dynamic safety certificates when sensor availability and noise statistics degrade unannounced?
+* **Physics-Informed Uncertainty Bounds:** Can physics-grounded dynamics bound state covariance in real time during high-agility maneuvers near physical limits?
+
