@@ -92,21 +92,13 @@ Rather than treating sensing, estimation, and control as **decoupled subsystems*
 
 ---
 
-<p align="center">
-  <a href="https://www.youtube.com/watch?v=T0iA-GSP4h4">
-    <img
-      src="https://img.youtube.com/vi/T0iA-GSP4h4/maxresdefault.jpg"
-      alt="Agile flight control by top-drone pilot tinexdFPV"
-      width="700"
-    >
+<div style="max-width: 100%; text-align: center; margin: 20px 0;">
+  <a href="https://www.youtube.com/watch?v=T0iA-GSP4h4" target="_blank" rel="noopener">
+    <img src="https://img.youtube.com/vi/T0iA-GSP4h4/hqdefault.jpg" alt="Agile Flight Control Demo" style="width: 100%; max-width: 600px; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);">
   </a>
-</p>
-
-<p align="center">
-  <em>
-    Video courtesy of top-drone pilot
-    <a href="https://www.youtube.com/@tinexdFPV">tinexdFPV</a>.
-  </em>
-</p>
+  <p style="font-size: 0.85em; color: #666; margin-top: 8px;">
+    ▶️ <em>Watch agile flight execution by <a href="https://www.youtube.com/@tinexdFPV" target="_blank" rel="noopener">tinexdFPV</a> on YouTube.</em>
+  </p>
+</div>
 
   ---
