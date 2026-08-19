@@ -62,7 +62,7 @@ latest_posts:
 
 My research focuses on end-to-end **Guidance, Navigation, and Control (GNC)** for autonomous aerial systems, with particular emphasis on the interface between **state estimation** and **feedback control**. A central question underlying my work is:
 
-_"How does estimation quality—specifically in terms of bias (accuracy) and noise (precision)—propagate through the GNC layers to affect closed-loop stability and tracking performance?"_.
+_"How does estimation quality—specifically in terms of bias (**accuracy**) and noise (**precision**)—propagate through the GNC layers to affect closed-loop stability and **tracking performance**?"_.
 
 By pioneering **Estimation-Aware (EA)** control frameworks, I build **unified GNC pipelines** that explicitly account for sensor noise and state uncertainties—from high-bandwidth inner-loop stabilization to outer-loop trajectory tracking.
 
