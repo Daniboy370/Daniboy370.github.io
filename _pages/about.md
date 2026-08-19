@@ -91,7 +91,7 @@ Rather than treating sensing, estimation, and control as **decoupled subsystems*
 * **Resource-Efficient Vision-Aided Navigation:** How can state-of-the-art VINS and SLAM algorithms be restructured—both computationally and algorithmically—to preserve state-space consistency and guarantee bounded uncertainty in real-time embedded flight systems?
 
 ---
-https://www.youtube.com/@tinexdFPV
+
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; border-radius: 8px;">
   <iframe 
