@@ -82,7 +82,10 @@ Rather than treating sensing, estimation, and control as **decoupled subsystems*
 
 **Open Questions I'm Exploring**
 
-* **Uncertainty Propagation Across Time Scales:** How does estimation covariance map efficiently to low-frequency trajectory planners without creating computational bottlenecks?
-* **Guaranteed Safety Under Active Degradation:** How do we construct dynamic safety certificates when sensor availability and noise statistics degrade unannounced?
-* **Physics-Informed Uncertainty Bounds:** Can physics-grounded dynamics bound state covariance in real time during high-agility maneuvers near physical limits?
+* **Uncertainty Propagation Across Time Scales:** How does state estimation uncertainty propagate across **multi-rate** GNC layers? Can we establish mathematically sound, spatiotemporal mappings to inform each hierarchy level without overloading **low-frequency** trajectory planners?
 
+* **Guaranteed Safety Under Active Degradation:** How do we construct dynamic safety certificates when sensor availability and noise statistics degrade unannounced? Can we accurately **extrapolate** system dynamics and environmental interactions during prolonged periods of extreme dead reckoning?
+
+* **Resource-Efficient Vision-Aided Navigation:** How can state-of-the-art VINS and SLAM algorithms be restructured—both computationally and algorithmically—to preserve state-space consistency and guarantee bounded uncertainty in real-time embedded flight systems?
+
+---
