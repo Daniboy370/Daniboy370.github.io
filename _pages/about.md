@@ -60,7 +60,9 @@ latest_posts:
 
 </div>
 
-I am a Ph.D. researcher at the [Autonomous Navigation and Sensor Fusion Lab (ANSFL)](https://ansfl.marsci.haifa.ac.il/), led by Prof. [Itzik Klein](https://scholar.google.com/citations?user=uwjVBkIAAAAJ&hl=en) at the University of Haifa. My research focuses on end-to-end **Guidance, Navigation, and Control (GNC)** for autonomous aerial systems, with particular emphasis on the interface between **state estimation** and **feedback control**. A central question underlying my work is:
+I am a Ph.D. researcher at the [Autonomous Navigation and Sensor Fusion Lab (ANSFL)](https://ansfl.marsci.haifa.ac.il/), led by Prof. [Itzik Klein](https://scholar.google.com/citations?user=uwjVBkIAAAAJ&hl=en) at the University of Haifa. 
+
+My research focuses on end-to-end **Guidance, Navigation, and Control (GNC)** for autonomous aerial systems, with particular emphasis on the interface between **state estimation** and **feedback control**. A central question underlying my work is:
 
 _"How does estimation quality—specifically in terms of bias (**accuracy**) and noise (**precision**)—propagate through the GNC layers to affect closed-loop stability and **tracking performance**?"_.
 
