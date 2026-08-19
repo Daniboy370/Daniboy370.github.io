@@ -60,15 +60,11 @@ latest_posts:
 
 </div>
 
-I am a Ph.D. researcher at the [Autonomous Navigation and Sensor Fusion Lab (ANSFL)](https://ansfl.marsci.haifa.ac.il/), led by Prof. [Itzik Klein](https://scholar.google.com/citations?user=uwjVBkIAAAAJ&hl=en) at the University of Haifa. I focus on **Guidance, Navigation, and Control (GNC)** for **aerial platforms**. 
+I focus on end-to-end **Guidance, Navigation, and Control (GNC)** for aerial platforms, addressing a fundamental bottleneck in autonomous flight: 
 
-My research bridges robust control theory, state estimation, and learning-based flight control to enable unmanned aerial platforms to operate with full autonomy in complex, GPS-denied environments—both indoors and outdoors.
+_how state estimation uncertainties propagate into closed-loop stability and precision?_
 
----
-### Research Interests
-* **Agile and Robust GNC:** Trajectory optimization, robust and adaptive control, end-to-end autonomous navigation pipelines for aerial platforms.
-* **Perception & State Estimation:** Vision-aided inertial navigation (VINS), multi-sensor fusion (IMU/Vision/LiDAR), and state estimation in GPS-denied environments.
-* **Sim-to-Real & Robot Learning:** Photorealistic synthesis, physics-grounded simulation, and transfer learning for agile autonomous flight.
+By pioneering estimation-aware control frameworks, I build unified GNC pipelines that explicitly account for sensor noise and state error across the entire control stack—from high-frequency inner-loop attitude regulation to path-following and high-level decision making. My work demonstrates that this dynamic regularization establishes safe control bounds under internal and external constraints, unlocking precise and resilient autonomy in complex, GNSS-denied environments.
 
 ---
 <div style="text-align: center; margin: 20px 0;">
