@@ -64,11 +64,9 @@ I am a Ph.D. researcher at the [Autonomous Navigation and Sensor Fusion Lab (ANS
 
 My research focuses on end-to-end **Guidance, Navigation, and Control (GNC)** for autonomous aerial systems, with particular emphasis on the interface between **state estimation** and **feedback control**. A central question underlying my work is:
 
-_"How does estimation quality—specifically in terms of bias (**accuracy**) and noise (**precision**)—propagate through the GNC layers to affect closed-loop stability and **tracking performance**?"_.
+_"How does estimation quality—in terms of bias (**accuracy**) and noise (**precision**)—propagate through the GNC layers to affect **closed-loop stability** and **tracking performance**?"_.
 
-By pioneering **Estimation-Aware (EA)** control frameworks, I build unified GNC pipelines that explicitly account for sensor noise and state uncertainties—from high-bandwidth **inner-loop** stabilization to lower-frequency **outer-loop** path planning.
-
-Rather than treating sensing, estimation, and control as **decoupled subsystems**, my research integrates them into a **cohesive framework**. This establishes principled **operating bounds** under internal (system) and external (environment) constraints—unlocking precise and resilient autonomy in complex, GNSS-denied environments.
+By pioneering Estimation-Aware (EA) control frameworks, I build unified GNC pipelines that explicitly account for state uncertainty—from high-bandwidth **inner-loop** stabilization to lower-frequency **outer-loop** path planning. By coupling sensing, estimation, and control into a cohesive architecture, my work establishes **principled operating bounds** under both system and environmental constraints—unlocking precise, resilient autonomy in complex, GNSS-denied environments.
 
 ---
 <div style="text-align: center; margin: 20px 0;">
@@ -84,10 +82,10 @@ Rather than treating sensing, estimation, and control as **decoupled subsystems*
 
 **Open Questions I'm Exploring**
 
-* **Uncertainty Propagation Across Time Scales:** How does state estimation uncertainty propagate across **multi-rate** GNC layers? Can we establish mathematically sound, spatiotemporal mappings to inform each hierarchy level without overloading **low-frequency** trajectory planners?
+* **Uncertainty Propagation Across Time Scales:** How does state estimation uncertainty propagate across **multi-rate** GNC layers? Can we establish spatiotemporal mappings that inform every level of the hierarchy without bottlenecking trajectory planners?
 
-* **Guaranteed Safety Under Active Degradation:** How do we construct dynamic safety certificates when sensor availability and noise statistics degrade unannounced? Can we accurately **extrapolate** system dynamics and environmental interactions during prolonged periods of extreme dead reckoning?
+* **Guaranteed Safety Under Active Degradation:** How do we construct dynamic safety certificates when sensor availability and noise statistics degrade unannounced? Can we bound **state extrapolation**—covering both platform dynamics (internal) and environmental interactions (external)—during extreme dead reckoning?
 
-* **Resource-Efficient Vision-Aided Navigation:** How can state-of-the-art VINS and SLAM algorithms be restructured—both computationally and algorithmically—to preserve state-space consistency and guarantee bounded uncertainty in real-time embedded flight systems?
+* **Resource-Efficient Vision-Aided Navigation:** How can state-of-the-art VINS and SLAM algorithms be restructured to preserve state-space consistency and guarantee bounded uncertainty on resource-constrained flight hardware? What architectural breakthroughs are required to achieve continuous, resilient aerial inspection in GNSS-denied indoor and underground environments?
 
 ---
