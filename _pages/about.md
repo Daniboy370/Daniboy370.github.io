@@ -66,7 +66,7 @@ My research focuses on end-to-end **Guidance, Navigation, and Control (GNC)** fo
 
 _"How does estimation quality—in terms of bias (**accuracy**) and noise (**precision**)—propagate through the GNC layers to affect **closed-loop stability** and **tracking performance**?"_.
 
-By pioneering Estimation-Aware (EA) control frameworks, I build unified GNC pipelines that explicitly account for state uncertainty—from high-bandwidth **inner-loop** stabilization to lower-frequency **outer-loop** path planning. By coupling sensing, estimation, and control into a cohesive architecture, my work establishes **principled operating bounds** under both system and environmental constraints—unlocking precise, resilient autonomy in complex, GNSS-denied environments.
+By pioneering Estimation-Aware (EA) control frameworks, I build unified GNC pipelines that explicitly account for estimation error—from high-bandwidth **inner-loop** stabilization to lower-frequency **outer-loop** path planning. Replacing classical, decoupled subsystems with a unified framework establishes **principled operating bounds** across system and environmental constraints, unlocking precise and resilient autonomy in GNSS-denied environments.
 
 ---
 <div style="text-align: center; margin: 20px 0;">
@@ -86,6 +86,6 @@ By pioneering Estimation-Aware (EA) control frameworks, I build unified GNC pipe
 
 * **Guaranteed Safety Under Active Degradation:** How do we construct dynamic safety certificates when sensor availability and noise statistics degrade unannounced? Can we bound **state extrapolation**—covering both platform dynamics (internal) and environmental interactions (external)—during extreme dead reckoning?
 
-* **Resource-Efficient Vision-Aided Navigation:** How can state-of-the-art VINS and SLAM algorithms be restructured to preserve state-space consistency and guarantee bounded uncertainty on resource-constrained flight hardware?
+* **Resource-Efficient Vision-Aided Navigation:** How can state-of-the-art **VINS** and **SLAM** algorithms be restructured to preserve state-space consistency and guarantee bounded uncertainty on resource-constrained flight hardware?
 
 ---
