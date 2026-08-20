@@ -86,6 +86,6 @@ By pioneering Estimation-Aware (EA) control frameworks, I build unified GNC pipe
 
 * **Guaranteed Safety Under Active Degradation:** How do we construct dynamic safety certificates when sensor availability and noise statistics degrade unannounced? Can we bound **state extrapolation**—covering both platform dynamics (internal) and environmental interactions (external)—during extreme dead reckoning?
 
-* **Resource-Efficient Vision-Aided Navigation:** How can state-of-the-art VINS and SLAM algorithms be restructured to preserve state-space consistency and guarantee bounded uncertainty on resource-constrained flight hardware? What architectural breakthroughs are required to achieve continuous, resilient aerial inspection in GNSS-denied indoor and underground environments?
+* **Resource-Efficient Vision-Aided Navigation:** How can state-of-the-art VINS and SLAM algorithms be restructured to preserve state-space consistency and guarantee bounded uncertainty on resource-constrained flight hardware?
 
 ---
