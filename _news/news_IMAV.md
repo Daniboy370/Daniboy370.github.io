@@ -6,5 +6,10 @@ inline: true
 related_posts: false
 ---
 
-Heading to the [International Micro Air Vehicle Conference and Competition (IMAV 2026)](https://2026.imavs.org/) in Strasbourg! Excited to connect with fellow micro-aerial robotics and GNC researchers, discuss autonomous flight, and enjoy some local wine! 🇫🇷
+Headed to the [International Micro Air Vehicle Conference and Competition (IMAV 2026)](https://2026.imavs.org/) in Strasbourg! Was absolutely fascinated to connect with fellow micro-aerial robotics and GNC researchers, witness the indoor and outdoor competitions, and enjoy some local wine! 🇫🇷
  
+<div style="display: flex; justify-content: center; margin-top: 12px;">
+  <img src="{{ '/assets/img/IMAV_Present.jpg' | relative_url }}" 
+       alt="Image from Prague" 
+       style="width: 100%; max-width: 450px; max-height: 220px; object-fit: cover; border-radius: 8px;">
+</div>
