@@ -84,8 +84,8 @@ By pioneering Estimation-Aware (EA) control frameworks, I build unified GNC pipe
 
 * **Uncertainty Propagation Across Time Scales:** How does state estimation uncertainty propagate across **multi-rate** GNC layers? Can we establish spatiotemporal mappings that inform every level of the hierarchy without bottlenecking trajectory planners?
 
-* **Guaranteed Safety Under Active Degradation:** How do we construct dynamic safety certificates when sensor availability and noise statistics degrade unannounced? Can we bound **state extrapolation**—covering both platform dynamics (internal) and environmental interactions (external)—during extreme dead reckoning?
+* **Physics-Informed Sim-to-Real Generalization**: How do we achieve zero-shot sim-to-real transfer for complex platform dynamics when high-fidelity simulation cannot capture unmodeled environmental interactions? Can domain randomization and physics-informed learning guarantee bounded tracking error during real-world execution?
 
-* **Resource-Efficient Vision-Aided Navigation:** How can state-of-the-art **VINS** and **SLAM** algorithms be restructured to preserve state-space consistency and guarantee bounded uncertainty on resource-constrained flight hardware?
+* **Photorealistic & Physical Sim-to-Real Transfer:** How do we leverage photorealistic rendering and high-fidelity physics engines with domain randomization to guarantee zero-shot transfer and bounded tracking error under real-world dynamic shifts?
 
 ---
