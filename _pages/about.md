@@ -62,11 +62,7 @@ latest_posts:
 
 I am a Ph.D. researcher at the [Autonomous Navigation and Sensor Fusion Lab (ANSFL)](https://ansfl.marsci.haifa.ac.il/), led by Prof. [Itzik Klein](https://scholar.google.com/citations?user=uwjVBkIAAAAJ&hl=en) at the University of Haifa. 
 
-My research focuses on end-to-end **Guidance, Navigation, and Control (GNC)** for autonomous aerial systems, with particular emphasis on the interface between **state estimation** and **feedback control**. A central question underlying my work is:
-
-_"How does estimation quality—in terms of bias (**accuracy**) and noise (**precision**)—propagate through the GNC layers to affect **closed-loop stability** and **tracking performance**?"_.
-
-By pioneering Estimation-Aware (EA) control frameworks, I build unified GNC pipelines that explicitly account for estimation error—from high-bandwidth **inner-loop** stabilization to lower-frequency **outer-loop** path planning. Replacing classical, decoupled subsystems with a unified framework establishes **principled operating bounds** across system and environmental constraints, unlocking precise and resilient autonomy in GNSS-denied environments.
+I aim to build unified **Guidance, Navigation, and Control (GNC)** pipelines suitable for prolonged indoor missions that bridge high-fidelity simulation with resource-constrained onboard hardware, enabling real-time execution without sacrificing state consistency. 
 
 ---
 <div style="text-align: center; margin: 20px 0;">
