@@ -25,7 +25,7 @@ latest_posts:
 
 <!-- <style>
   .profile img {
-    max-width: 160px !important; /* Adjust this number to whatever size you prefer */
+    max-width: 140px !important; /* Adjust this number to whatever size you prefer */
     height: auto;
   }
 </style> -->
