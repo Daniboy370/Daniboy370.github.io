@@ -25,7 +25,7 @@ latest_posts:
 
 <!-- <style>
   .profile img {
-    max-width: 180px !important; /* Adjust this number to whatever size you prefer */
+    max-width: 160px !important; /* Adjust this number to whatever size you prefer */
     height: auto;
   }
 </style> -->
@@ -62,7 +62,7 @@ latest_posts:
 
 I am a Ph.D. researcher at the [Autonomous Navigation and Sensor Fusion Lab (ANSFL)](https://ansfl.marsci.haifa.ac.il/), led by Prof. [Itzik Klein](https://scholar.google.com/citations?user=uwjVBkIAAAAJ&hl=en) at the University of Haifa. 
 
-I aim to build unified **Guidance, Navigation, and Control (GNC)** pipelines suitable for prolonged indoor missions that bridge high-fidelity simulation with resource-constrained onboard hardware, enabling real-time execution without sacrificing state consistency. 
+My research addresses end-to-end **Guidance, Navigation, and Control (GNC)** for GPS-denied, self-contained aerial robotics, focusing on coupled estimator-controller dynamics and adaptive planning rates. Early results demonstrate that this unified pipeline bridges high-fidelity simulation with resource-constrained hardware, enabling prolonged indoor missions without sacrificing real-time state consistency.
 
 ---
 <div style="text-align: center; margin: 20px 0;">
