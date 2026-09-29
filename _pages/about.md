@@ -66,7 +66,7 @@ I aim to build unified **Guidance, Navigation, and Control (GNC)** pipelines sui
 
 ---
 <div style="text-align: center; margin: 20px 0;">
-  <video autoplay loop muted playsinline style="width: 100%; max-width: 900px; height: auto;">
+  <video autoplay loop muted playsinline style="width: 80%; max-width: 900px; height: auto;">
     <source src="{{ '/assets/video/Quad_Chase_2.mp4' | relative_url }}" type="video/mp4">
     Your browser does not support the video tag.
   </video>
