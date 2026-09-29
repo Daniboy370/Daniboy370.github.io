@@ -23,6 +23,12 @@ latest_posts:
   enabled: false
 ---
 
+I am a Ph.D. researcher at the [Autonomous Navigation and Sensor Fusion Lab (ANSFL)](https://ansfl.marsci.haifa.ac.il/), led by Prof. [Itzik Klein](https://scholar.google.com/citations?user=uwjVBkIAAAAJ&hl=en) at the University of Haifa. 
+
+Focusing on coupled estimator-controller dynamics and adaptive execution rates, my research develops end-to-end **Guidance, Navigation, and Control (GNC)** for self-contained aerial robotics. 
+
+Early results demonstrate that such unified pipelines manage to bridge high-fidelity simulation with resource-constrained hardware, enabling prolonged indoor missions without sacrificing real-time state consistency.
+
 <!-- <style>
   .profile img {
     max-width: 140px !important; /* Adjust this number to whatever size you prefer */
@@ -60,11 +66,6 @@ latest_posts:
 
 </div>
 
-I am a Ph.D. researcher at the [Autonomous Navigation and Sensor Fusion Lab (ANSFL)](https://ansfl.marsci.haifa.ac.il/), led by Prof. [Itzik Klein](https://scholar.google.com/citations?user=uwjVBkIAAAAJ&hl=en) at the University of Haifa. 
-
-Focusing on coupled estimator-controller dynamics and adaptive execution rates, my research develops end-to-end **Guidance, Navigation, and Control (GNC)** for self-contained aerial robotics. 
-
-Early results demonstrate that such unified pipelines manage to bridge high-fidelity simulation with resource-constrained hardware, enabling prolonged indoor missions without sacrificing real-time state consistency.
 
 ---
 <div style="text-align: center; margin: 20px 0;">
@@ -80,10 +81,17 @@ Early results demonstrate that such unified pipelines manage to bridge high-fide
 
 **Open Questions I'm Exploring**
 
+Uncertainty Propagation Across Time Scales: How does state estimation uncertainty propagate across multi-rate GNC layers? Can we establish spatiotemporal mappings that inform every level of the hierarchy without bottlenecking trajectory planners?
+
+High-Fidelity Sim-to-Real Generalization: How can photorealistic rendering and high-fidelity physics engines enable zero-shot deployment under unmodeled environmental interactions? Can domain randomization combined with physics-informed learning guarantee bounded tracking error during real-world execution?
+
+Guaranteed Safety Under Active Degradation: How do we construct dynamic safety certificates when sensor availability and noise statistics degrade unannounced? Can we bound state extrapolation across platform dynamics and environmental disturbances during extreme dead reckoning?
+
+
 * **Uncertainty Propagation Across Time Scales:** How does state estimation uncertainty propagate across **multi-rate** GNC layers? Can we establish spatiotemporal mappings that inform every level of the hierarchy without bottlenecking trajectory planners?
 
-* **Physics-Informed Sim-to-Real Generalization**: How do we achieve zero-shot sim-to-real transfer for complex platform dynamics when high-fidelity simulation cannot capture unmodeled environmental interactions? Can domain randomization and physics-informed learning guarantee bounded tracking error during real-world execution?
+* **Physics-Informed Sim-to-Real Generalization**: How do we achieve **zero-shot** sim-to-real transfer for complex platform dynamics when high-fidelity simulation cannot capture unmodeled environmental interactions? Can domain randomization and physics-informed learning guarantee bounded tracking error during real-world execution?
 
-* **Photorealistic & Physical Sim-to-Real Transfer:** How do we leverage photorealistic rendering and high-fidelity physics engines with domain randomization to guarantee zero-shot transfer and bounded tracking error under real-world dynamic shifts?
+* **Physical Sim-to-Real Transfer:** How do we leverage **photorealistic** rendering and high-fidelity physics engines with domain randomization to guarantee zero-shot transfer and bounded tracking error under real-world dynamic shifts?
 
 ---
