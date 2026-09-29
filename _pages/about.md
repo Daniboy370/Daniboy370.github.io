@@ -81,17 +81,10 @@ Early results demonstrate that such unified pipelines manage to bridge high-fide
 
 **Open Questions I'm Exploring**
 
-Uncertainty Propagation Across Time Scales: How does state estimation uncertainty propagate across multi-rate GNC layers? Can we establish spatiotemporal mappings that inform every level of the hierarchy without bottlenecking trajectory planners?
+* **Uncertainty Propagation Across Time Scales**: How does state estimation uncertainty propagate across multi-rate GNC layers? Can we establish spatiotemporal mappings that inform every level of the hierarchy without bottlenecking trajectory planners?
 
-High-Fidelity Sim-to-Real Generalization: How can photorealistic rendering and high-fidelity physics engines enable zero-shot deployment under unmodeled environmental interactions? Can domain randomization combined with physics-informed learning guarantee bounded tracking error during real-world execution?
+* **High-Fidelity Sim-to-Real Generalization**: How can photorealistic rendering and high-fidelity physics engines enable zero-shot deployment under unmodeled environmental interactions? Can domain randomization combined with physics-informed learning guarantee bounded tracking error during real-world execution?
 
-Guaranteed Safety Under Active Degradation: How do we construct dynamic safety certificates when sensor availability and noise statistics degrade unannounced? Can we bound state extrapolation across platform dynamics and environmental disturbances during extreme dead reckoning?
-
-
-* **Uncertainty Propagation Across Time Scales:** How does state estimation uncertainty propagate across **multi-rate** GNC layers? Can we establish spatiotemporal mappings that inform every level of the hierarchy without bottlenecking trajectory planners?
-
-* **Physics-Informed Sim-to-Real Generalization**: How do we achieve **zero-shot** sim-to-real transfer for complex platform dynamics when high-fidelity simulation cannot capture unmodeled environmental interactions? Can domain randomization and physics-informed learning guarantee bounded tracking error during real-world execution?
-
-* **Physical Sim-to-Real Transfer:** How do we leverage **photorealistic** rendering and high-fidelity physics engines with domain randomization to guarantee zero-shot transfer and bounded tracking error under real-world dynamic shifts?
+* **Guaranteed Safety Under Active Degradation**: How do we construct dynamic safety certificates when sensor availability and noise statistics degrade unannounced? Can we bound state extrapolation across platform dynamics and environmental disturbances during extreme dead reckoning?
 
 ---
