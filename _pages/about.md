@@ -25,9 +25,9 @@ latest_posts:
 
 I am a Ph.D. researcher at the [Autonomous Navigation and Sensor Fusion Lab (ANSFL)](https://ansfl.marsci.haifa.ac.il/), led by Prof. [Itzik Klein](https://scholar.google.com/citations?user=uwjVBkIAAAAJ&hl=en) at the University of Haifa. 
 
-Focusing on coupled estimator-controller dynamics and adaptive planning horizons, my research develops end-to-end **Guidance, Navigation, and Control (GNC)** for self-contained aerial robots, with an emphasis on lean, and robust autonomy.
+My research focuses on coupled estimator-controller dynamics and adaptive planning horizons to build lean, robust Guidance, Navigation, and Control (GNC) pipelines for self-contained aerial robotics.
 
-Early studies show that unified, tightly coupled pipelines—where components jointly inform and constrain one another—enable safer, more decisive planning during prolonged indoor missions, without sacrificing real-time state consistency.
+In my belief "space", the state estimator is the heart of real-time autonomy—state estimation dictates everything downstream: if your filter drifts, your controller panics, and your planner fails. My work focuses on making that entire pipeline tight, adaptive, and bulletproof in real time.
 
 <!-- <style>
   .profile img {
