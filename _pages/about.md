@@ -27,7 +27,7 @@ I am a Ph.D. researcher at the [Autonomous Navigation and Sensor Fusion Lab (ANS
 
 My research focuses on coupled estimator-controller dynamics and adaptive planning horizons to build lean, robust Guidance, Navigation, and Control (GNC) pipelines for self-contained aerial robotics.
 
-In my *belief space*, everything in GNC flows from the state estimator; if your filter drifts, your controller panics, and your planner fails. My work focuses on making that entire pipeline **great again**, un-decoupled, adaptive, and bulletproof in real time.
+In my *belief space*, state estimation is the bedrock of GNC: if your filter drifts, your controller panics, and your planner fails. I build tightly coupled, adaptive, and bulletproof GNC pipelines to—in short—**Make GNC Great Again**.
 
 <!-- <style>
   .profile img {
